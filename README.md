@@ -1,9 +1,9 @@
 # ExamPythonIASchool
 
-cd /Users/mac/Documents/GitHub
-git init 
-git add . 
-% git commit -m "ExamPythonIASchool"  
-git remote add origin https://github.com/OmarKasmi/ExamPythonIASchool.git
-git push origin master
-git pull origin master
+1. cd /Users/mac/Documents/GitHub
+2. git init 
+3. git add . 
+4. git commit -m "ExamPythonIASchool"  
+5. git remote add origin https://github.com/OmarKasmi/ExamPythonIASchool.git
+6. git push origin master
+7. git pull origin master
